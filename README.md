@@ -17,4 +17,4 @@ My framework:
 
    * I used the Bootstrap grid system to adjust my navbar.
 
-Over all this was a fun project that really made me utilize bootstraps grid system, and introduced me to Mailchimp.
+Over all this was more of a refresher project that really made me utilize bootstraps grid system, and introduced me to Mailchimp.
